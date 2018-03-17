@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DeepInsiderCountdownSite", "DeepInsiderCountdownSite\DeepInsiderCountdownSite.csproj", "{58CF8A60-DAED-4F8B-A19A-EEF2531B91E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "particleground", "particleground", "{99B6B3C3-5711-4A22-8CAB-9B5B6244611D}"
+	ProjectSection(SolutionItems) = preProject
+		particleground\LICENSE.md = particleground\LICENSE.md
+		particleground\README.md = particleground\README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "css3-countdown", "css3-countdown", "{D43AF721-8478-464C-843A-12D64480933D}"
+	ProjectSection(SolutionItems) = preProject
+		css3-countdown\README.md = css3-countdown\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58CF8A60-DAED-4F8B-A19A-EEF2531B91E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CF8A60-DAED-4F8B-A19A-EEF2531B91E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CF8A60-DAED-4F8B-A19A-EEF2531B91E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CF8A60-DAED-4F8B-A19A-EEF2531B91E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03FE7CB0-8427-438C-B8A3-08C61160595D}
+	EndGlobalSection
+EndGlobal
